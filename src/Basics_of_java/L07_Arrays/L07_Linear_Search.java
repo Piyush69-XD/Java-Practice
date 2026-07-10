@@ -1,6 +1,6 @@
 package Basics_of_java.L07_Arrays;
 import java.util.Scanner;
-public class L07_Search_Element {
+public class L07_Linear_Search {
     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter size of array: ");
