@@ -24,7 +24,7 @@ public class L07_Search_Element {
         }
 
         if(flag)
-            System.out.println("Element found");
+            System.out.println("Element found at index " + i);
         else
             System.out.println("Element not found");
     }
