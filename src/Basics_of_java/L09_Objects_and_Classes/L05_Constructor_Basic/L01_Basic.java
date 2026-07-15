@@ -1,6 +1,7 @@
 package Basics_of_java.L09_Objects_and_Classes.L05_Constructor_Basic;
 import java.util.Scanner;
-public class L01_Basic {
+public class
+L01_Basic {
     L01_Basic(int num , int num2){
         System.out.println("Num1: "+num);
         System.out.println("Num2: "+num2);
