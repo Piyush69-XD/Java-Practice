@@ -18,7 +18,7 @@ public class L27_String_Contains_Digits {
             System.out.println("String Contains only digits ");
         }
         else {
-            System.out.println("String does not contain only digits ");
+            System.out.println("String does not contain only digits. ");
         }
     }
 }
