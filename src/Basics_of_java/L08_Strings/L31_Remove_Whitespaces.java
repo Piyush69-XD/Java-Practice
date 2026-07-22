@@ -7,6 +7,6 @@ public class L31_Remove_Whitespaces {
         String s1 = sc.nextLine();
 
         String s2 = s1.trim();
-        System.out.println("Modified String: "+s2);
+        System.out.println("New Modified String: "+s2);
     }
 }
